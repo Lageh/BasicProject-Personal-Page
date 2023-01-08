@@ -76,5 +76,6 @@ table{
 }
 
 .skill-row{
-    
+    margin: auto;
+    width: 50%;
 }
