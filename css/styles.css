@@ -1,10 +1,11 @@
 div{
     background-color: rgb(232, 243, 214);
+    padding: 30%;
 }
 
 h1{
     margin: 0;
-    color: #FAAB78;
+    color: #FAAB78
 }
 
 body{
