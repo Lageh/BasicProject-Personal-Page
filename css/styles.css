@@ -5,15 +5,21 @@ div{
 h1{
     color: #FAAB78;
     text-align: center;
+    font-family: 'Dancing Script', cursive;
 }
 
 body{
     margin-top: 50px;
     text-align: center;
-    background-color: rgb(232, 243, 214)
+    background-color: rgb(232, 243, 214);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 p{
     margin-left: 10px;
+}
+
+.topContainer{
+    position: relative;
 }
 .top{
     position: absolute;
@@ -32,10 +38,12 @@ img{
 
 .bottomCloud{
     position: absolute;
-    left: 200px;
+    top: 30px;
+    right: 300px;
 }
 
 .topCloud{
-    position: relative;
-    left: 200px;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
 }
