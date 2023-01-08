@@ -57,13 +57,13 @@ img{
 
 .firstSkill{
     border-radius: 100%;
-    height: 100px;
+    width: 25%;
 }
 
 .secondSkill{
-    padding-top: 20px;
     border-radius: 100%;
-    height: 100px;
+    width: 25%;
+    border-radius: 100%;
 }
 
 table{
@@ -76,6 +76,7 @@ table{
 }
 
 .skill-row{
-    margin: auto;
+    margin: 100px auto 100px auto;
     width: 50%;
+    text-align: left;
 }
