@@ -32,10 +32,6 @@ body{
 }
 
 
-img{
-    display: inline-block;
-}
-
 .profilePic{
     border-radius: 100%;
     height: 200px;
@@ -56,11 +52,13 @@ img{
 }
 
 .firstSkill{
+    float: left;
     border-radius: 100%;
     width: 25%;
 }
 
 .secondSkill{
+    float: right;
     border-radius: 100%;
     width: 25%;
     border-radius: 100%;
@@ -69,6 +67,7 @@ img{
 table{
     margin-left: auto;
     margin-right: auto;
+    clear: left;
 }
 
 .subtitle{
@@ -79,4 +78,8 @@ table{
     margin: 100px auto 100px auto;
     width: 50%;
     text-align: left;
+}
+
+.descriptionSecondSkill{
+    clear: right;
 }
