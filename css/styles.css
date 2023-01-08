@@ -4,18 +4,29 @@ div{
 }
 
 h1{
-    margin: 0;
+    margin: 2px;
     color: #FAAB78
 }
 
 body{
-    margin: 0;
+    margin: 2px;
+}
+p{
+    margin-left: 10px;
+}
+.top{
+    border: solid;
+    border-color: rgb(255, 220, 169);
 }
 
 .middle{
     background-color: #FCF9BE;
+    border: solid;
+    border-color:rgb(232, 243, 214);
 }
 
 .bottom{
+    border: solid;
+    border-color:#FCF9BE;
     background-color: rgb(255, 220, 169);
 }
