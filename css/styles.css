@@ -1,7 +1,7 @@
 div{
     background-color: rgb(232, 243, 214);
-    height: 150px;
-    width: 160px;
+    height: 100px;
+    width: 100px;
 }
 
 h1{
@@ -10,29 +10,26 @@ h1{
 }
 
 body{
-    margin: 2px;
+    margin:0;
 }
 p{
     margin-left: 10px;
 }
 .top{
-    border: solid;
     border-color: rgb(255, 220, 169);
 }
 
 .middle{
-    position: relative;
-    left: 165px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
     background-color: #FCF9BE;
-    border: solid;
-    border-color:rgb(232, 243, 214);
 }
 
 .bottom{
-    position: relative;
-    left: 330px;
-    border: solid;
-    border-color:#FCF9BE;
+    position: absolute;
+    left: 200px;
+    top: 200px;
     background-color: rgb(255, 220, 169);
 }
 
@@ -44,5 +41,6 @@ p{
 
 img{
     display: inline-block;
-    position: relative;
+    position: absolute;
+    left: 30px;
 }
