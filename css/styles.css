@@ -1,8 +1,19 @@
 h1{
-    color: #FAAB78;
+    color: #66BFBF;
     text-align: center;
     font-family: 'Dancing Script', cursive;
     font-size: 5rem;
+    margin: 50px auto 0 auto;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+
+h3{
+    color: #11999E;
 }
 
 body{
@@ -13,17 +24,13 @@ body{
 }
 .topContainer{
     position: relative;
-    background-color: rgb(232, 243, 214);
+    background-color: rgba(155, 218, 218, 0.658);
 }
 .top{
     position: absolute;
     border-color: rgb(255, 220, 169);
 }
 
-.pro{
-    text-decoration: underline;
-    font-size: 2rem;
-}
 
 img{
     display: inline-block;
