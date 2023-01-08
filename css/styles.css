@@ -21,14 +21,12 @@ p{
 }
 
 .middle{
-    margin-left: 160px;
     background-color: #FCF9BE;
     border: solid;
     border-color:rgb(232, 243, 214);
 }
 
 .bottom{
-    margin-left: 320px;
     border: solid;
     border-color:#FCF9BE;
     background-color: rgb(255, 220, 169);
