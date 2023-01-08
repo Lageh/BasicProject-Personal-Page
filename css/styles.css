@@ -31,3 +31,13 @@ p{
     border-color:#FCF9BE;
     background-color: rgb(255, 220, 169);
 }
+
+.pro{
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 20px;
+}
+
+img{
+    display: inline-block;
+}
