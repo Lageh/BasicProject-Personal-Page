@@ -3,5 +3,10 @@ div{
 }
 
 h1{
+    margin: 0;
     color: #FAAB78;
+}
+
+body{
+    margin: 0;
 }
