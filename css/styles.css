@@ -11,3 +11,11 @@ h1{
 body{
     margin: 0;
 }
+
+.middle{
+    background-color: #FCF9BE;
+}
+
+.bottom{
+    background-color: rgb(255, 220, 169);
+}
