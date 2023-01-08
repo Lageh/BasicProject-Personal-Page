@@ -21,12 +21,16 @@ p{
 }
 
 .middle{
+    position: relative;
+    left: 165px;
     background-color: #FCF9BE;
     border: solid;
     border-color:rgb(232, 243, 214);
 }
 
 .bottom{
+    position: relative;
+    left: 330px;
     border: solid;
     border-color:#FCF9BE;
     background-color: rgb(255, 220, 169);
@@ -40,4 +44,5 @@ p{
 
 img{
     display: inline-block;
+    position: relative;
 }
